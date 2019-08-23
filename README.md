@@ -1,1 +1,1 @@
-# ds-and-algo-python
+# Data Structure and Algorithmic Thinking with Python
